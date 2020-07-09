@@ -1,6 +1,6 @@
 ###
 
-You can see my open-source projects on this page: https://github.com/lukaramishvili?tab=repositories
+You can see my free and open-source projects on this page: https://github.com/lukaramishvili?tab=repositories
 <!--
 **lukaramishvili/lukaramishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
